@@ -1,14 +1,12 @@
-using System;
+﻿using System;
 using System.IO;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using Console = Colorful.Console;
 using System.Text.RegularExpressions;
 using System.Drawing;
 using System.Reflection;
 
+//Written by Josh Bruegger.  Github: https://github.com/josh0196/BADarduino
 namespace BADARDUINO
 {
     class Program
@@ -322,7 +320,7 @@ namespace BADARDUINO
 
         private static void FormatOutput(string v, string output)
         {
-            String[] startLines = {"//Script generated using BADarduino by JoshBruegger", "#include \"Keyboard.h\"", "#define KEY_PAUSE (76+136)", "void setup(){", "Keyboard.begin();", "delay(1000);", "}", "void loop(){", "int DEFAULT_DELAY=100;", "delay(1000);" };
+            String[] startLines = { "//Script generated using BADarduino by JoshBruegger, GitHub: https://github.com/josh0196/BADarduino", "#include \"Keyboard.h\"", "#define KEY_PAUSE (76+136)", "void setup(){", "Keyboard.begin();", "delay(1000);", "}", "void loop(){", "int DEFAULT_DELAY=100;", "delay(1000);" };
             String[] endLines = { "while (true);", "}" };
 
             if (v == "START")
