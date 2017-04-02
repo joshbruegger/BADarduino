@@ -76,6 +76,8 @@ namespace BADarduino
                     File.AppendAllText(output, "delay(" + words[1] + ");" + Environment.NewLine);
                     break;
                 case "STRING":
+                    line = line.Replace(@"\", @"\\");
+                    line = line.Replace("\"", "\\\"");
                     File.AppendAllText(output, "Keyboard.print(\"" + rgx.Replace(line, "", 1) + "\");" + Environment.NewLine);
                     break;
                 case "WINDOWS":

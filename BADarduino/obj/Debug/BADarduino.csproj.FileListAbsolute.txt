@@ -5,3 +5,10 @@ k:\users\josh\documents\visual studio 2017\Projects\BADarduino\BADarduino\bin\De
 k:\users\josh\documents\visual studio 2017\Projects\BADarduino\BADarduino\obj\Debug\BADarduino.csprojResolveAssemblyReference.cache
 k:\users\josh\documents\visual studio 2017\Projects\BADarduino\BADarduino\obj\Debug\BADarduino.exe
 k:\users\josh\documents\visual studio 2017\Projects\BADarduino\BADarduino\obj\Debug\BADarduino.pdb
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\bin\Debug\BADarduino.exe.config
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\bin\Debug\BADarduino.exe
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\bin\Debug\BADarduino.pdb
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\bin\Debug\Colorful.Console.dll
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\obj\Debug\BADarduino.csprojResolveAssemblyReference.cache
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\obj\Debug\BADarduino.exe
+K:\Users\Josh\_Files\Projects\Microsoft Visual Studio\BADarduino\BADarduino\obj\Debug\BADarduino.pdb
