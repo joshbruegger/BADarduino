@@ -1,5 +1,5 @@
 # BADarduino
-BADarduino is a simple program, written in c#, that converts DuckyScript to Arduino.
+BADarduino is a simple program, written in c#, that converts [DuckyScript](https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Duckyscript) to Arduino.
 
 ## How to use it
 Put **BADarduino.exe in the same folder as a input.txt** (the file that contains your DuckyScript) and **run it**.     
